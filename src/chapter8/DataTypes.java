@@ -1,4 +1,4 @@
-package Chapter8;
+package chapter8;
 
 public class DataTypes {
 
